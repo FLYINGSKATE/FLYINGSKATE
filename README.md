@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FLYINGSKATE
 - 👀 I’m interested in Apps & Game Development
-- 🌱 I’m currently improving my Flutter Skills
+- 🌱 I’m currently learning GCP ,IBM , AWS , DEVOPS and other skills
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 8779559898 , ashrafk.salim@gmail.com , ashrafksalim1@gmail.com
 
